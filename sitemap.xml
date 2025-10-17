@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/zh-tw/singapore-sincon-cybersecurity-trip/</loc>
+    <loc>https://travel.qsweb3.com/zh-tw/sfo-transfer-guide/</loc>
     
     <lastmod>2025-10-17</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/zh-tw/sfo-transfer-guide/</loc>
+    <loc>https://travel.qsweb3.com/zh-tw/singapore-sincon-cybersecurity-trip/</loc>
     
     <lastmod>2025-10-17</lastmod>
     
@@ -269,13 +269,6 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/tags/%E8%88%8A%E9%87%91%E5%B1%B1%E6%A9%9F%E5%A0%B4/</loc>
-    <lastmod>2025-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://travel.qsweb3.com/tags/%E6%97%A5%E6%9C%AC%E7%92%B0%E7%90%83%E5%BD%B1%E5%9F%8E/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -333,6 +326,13 @@
   
   <url>
     <loc>https://travel.qsweb3.com/tags/%E4%BA%AC%E9%83%BD%E5%8B%9D%E7%89%9B/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://travel.qsweb3.com/tags/%E8%88%8A%E9%87%91%E5%B1%B1%E6%A9%9F%E5%A0%B4/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
