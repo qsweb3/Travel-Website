@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/zh-tw/sfo-transfer-guide/</loc>
+    <loc>https://travel.qsweb3.com/zh-tw/singapore-sincon-cybersecurity-trip/</loc>
     
     <lastmod>2025-10-17</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/zh-tw/singapore-sincon-cybersecurity-trip/</loc>
+    <loc>https://travel.qsweb3.com/zh-tw/sfo-transfer-guide/</loc>
     
     <lastmod>2025-10-17</lastmod>
     
@@ -134,27 +134,6 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/tags/%E7%BE%8E%E5%9C%8B%E6%97%85%E9%81%8A/</loc>
-    <lastmod>2025-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://travel.qsweb3.com/tags/%E8%BD%89%E6%A9%9F%E6%94%BB%E7%95%A5/</loc>
-    <lastmod>2025-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://travel.qsweb3.com/tags/%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%A9%9F%E5%A0%B4/</loc>
-    <lastmod>2025-10-17</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
     <loc>https://travel.qsweb3.com/tags/%E5%A4%A7%E9%98%AA%E8%87%AA%E7%94%B1%E8%A1%8C/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
@@ -191,6 +170,27 @@
   
   <url>
     <loc>https://travel.qsweb3.com/tags/%E6%97%A5%E6%9C%AC%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://travel.qsweb3.com/tags/%E7%BE%8E%E5%9C%8B%E6%97%85%E9%81%8A/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://travel.qsweb3.com/tags/%E8%BD%89%E6%A9%9F%E6%94%BB%E7%95%A5/</loc>
+    <lastmod>2025-10-17</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://travel.qsweb3.com/tags/%E6%B4%9B%E6%9D%89%E7%A3%AF%E6%A9%9F%E5%A0%B4/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
@@ -479,14 +479,14 @@
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/categories/us-guide/</loc>
+    <loc>https://travel.qsweb3.com/categories/jp-travel/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://travel.qsweb3.com/categories/jp-travel/</loc>
+    <loc>https://travel.qsweb3.com/categories/us-guide/</loc>
     <lastmod>2025-10-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
