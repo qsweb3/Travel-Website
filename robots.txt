@@ -1,5 +1,0 @@
-User-agent: *
-Disallow: /page/
-Disallow: /archives/
-Allow: /
-Sitemap: https://travel.qsweb3.com/sitemap.xml
